@@ -1,6 +1,6 @@
 # 🖥️ Price Comparison Backend (FastAPI + TFLite)
 
-This repository contains the backend implementation for the **Image-Based Price Comparison System**.
+This repository contains the backend implementation for the **ML-Based Price Comparison System**.
 
 ## 🚀 Features
 
@@ -23,4 +23,10 @@ This repository contains the backend implementation for the **Image-Based Price 
 - Accuracy: ~93% training, ~89% validation
 
 - python run_all.py
-"# ML-Based-Price-Comparison-System" 
+"# ML-Based-Price-Comparison-System"
+
+## Contributions
+- ASHIKUL ISLAM SAWAN (Project Manager)
+- RABIUL HASSAN (Backend: Python)
+- MUBTASIM FUAD (Frontend: Flutter)
+- FAHAD HASAN (Model Training)
